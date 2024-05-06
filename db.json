@@ -1,0 +1,51 @@
+{
+  "recipes": [ {
+      "id": 1,
+          "title": "Chocolate Cake",
+          "description": "Decadent chocolate cake with rich frosting.",
+          "image": "https://media.istockphoto.com/id/1191458815/photo/chocolate-layer-cake.jpg?s=1024x1024&w=is&k=20&c=_Lzgd0Xs5sV_gwhP91q8jCFYkNkQYdFVHnHPzh_zUzA=",
+          "ingredients": [ "All-purpose flour",
+          "Cocoa powder",
+          "Sugar",
+          "Butter",
+          "Eggs",
+          "Milk",
+          "Vanilla extract"
+          ],
+          "instructions": "Preheat oven to 350°F. Mix dry ingredients, then add wet ingredients..."
+  }
+
+  ,
+  {
+  "id": 2,
+      "title": "Spaghetti Carbonara",
+      "description": "Creamy pasta dish with crispy bacon and Parmesan cheese.",
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [ "Spaghetti",
+      "Bacon",
+      "Eggs",
+      "Parmesan cheese",
+      "Garlic",
+      "Olive oil"
+      ],
+      "instructions": "Cook spaghetti according to package instructions. Fry bacon until crispy..."
+}
+
+,
+{
+"id": 3,
+  "title": "Caesar Salad",
+  "description": "Classic salad with romaine lettuce, croutons, and Caesar dressing.",
+  "image": "https://via.placeholder.com/150",
+  "ingredients": [ "Romaine lettuce",
+  "Croutons",
+  "Parmesan cheese",
+  "Caesar dressing",
+  "Lemon juice",
+  "Olive oil"
+  ],
+  "instructions": "Toss lettuce with dressing, croutons, and cheese. Serve immediately..."
+}
+
+]
+}

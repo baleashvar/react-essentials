@@ -1,4 +1,20 @@
+/* Header styles */
+header {
+  background-color: #f0f0f0;
+  color: #007bff;
+  padding: 10px;
+  width: 100%;
+}
+
+/* Highlighted text */
+.highlight-red {
+  color: red;
+}
+
+/* Body styles */
 body {
+  background: linear-gradient(to right, #f3e0e0, #86c6ed);
+  background-color: #e0f3f1;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -7,7 +23,25 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Code styles */
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Main section styles */
+section {
+  padding-left: 20px; /* Adds padding to the left of the main section */
+}
+
+/* Footer styles */
+footer {
+  background-color: #f0f0f0;
+  color: #007bff;
+  padding: 10px;
+  width: 100%;
+  margin-top: 20px; /* Adds margin to the top of the footer */
+  margin-right: 20px; /* Shifts footer to the right */
+  padding-left: 20px; /* Adds padding to the left of the footer */
+}
+
